@@ -138,7 +138,7 @@ ul {
 
 .custom-toggler.navbar-toggler {
 /*   border-color: var(--primary-color); */
-  border: None;
+  border: None!important;
 }
 
 .toggler{
