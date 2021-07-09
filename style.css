@@ -89,7 +89,7 @@ ul {
 
 /*For header_style */
 .header_style {
-  background: url("Images/banner.jpg") no-repeat center
+  background: url("images/banner.jpg") no-repeat center
     center/cover;
   height: 90vh;
   color: #fff;
@@ -206,7 +206,7 @@ main .post div {
 }
 
 main .post .post-img {
-  background: url("Images/item.jpg") no-repeat center center;
+  background: url("images/item.jpg") no-repeat center center;
   background-size: cover;
   /* background-color: #fff; */
 }
