@@ -144,6 +144,7 @@ ul {
 .toggler{
   border-bottom: 2px solid var(--primary-color);
   margin-top: 4px;
+  margin-bottom: 4px;
 }
 
 .navbar li {
