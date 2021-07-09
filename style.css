@@ -137,8 +137,8 @@ ul {
 }
 
 .custom-toggler.navbar-toggler {
-/*   border-color: var(--primary-color); */
-  border: None!important;
+    /* border-color: var(--primary-color); */
+    border: none;
 }
 
 .toggler{
